@@ -67,6 +67,8 @@ Sales revenue fluctuated over the two-year period, with noticeable spikes around
 
 Seasonality trends can inform future sales forecasting and promotional campaigns.
 
+![Image](https://github.com/user-attachments/assets/4e5d8b4a-e3a7-44c6-950a-dc0f3a8eb470)
+
 ## Conclusion
 
 The Maven Toy Sales Analysis provided valuable insights into product performance, store location effectiveness, and revenue trends. Toys emerged as the dominant product category, and Downtown locations significantly outperformed others.
