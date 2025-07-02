@@ -1,4 +1,5 @@
 # Maven-Toys-Sales-Analysis
+![Image](https://github.com/user-attachments/assets/1ccfea7e-6b26-4f1f-8b86-9cd19a8a1b01)
 
 ## Problem Statement
 
